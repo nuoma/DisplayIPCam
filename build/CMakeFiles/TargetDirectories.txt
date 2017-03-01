@@ -1,0 +1,3 @@
+/home/mirrorworlds/Desktop/display/build/CMakeFiles/edit_cache.dir
+/home/mirrorworlds/Desktop/display/build/CMakeFiles/rebuild_cache.dir
+/home/mirrorworlds/Desktop/display/build/CMakeFiles/display.dir
