@@ -22,3 +22,5 @@ $ make -j20           # Compiles four files in parallel, best for quad-core comp
 
 
 ## Issue
+Changed from recordIPCam repository, not tested.
+Can merge as a RecaordIPCam branch.
